@@ -116,7 +116,7 @@
   
 <br/>
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanjai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanjai&layout=compact&theme=radical)]
   
 <br/>
 
@@ -127,9 +127,8 @@
 </div>
 
 ### Contributions
-
+  ![Snake animation](https://github.com/Rohanjai/Rohanjai/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
-![Snake animation](https://github.com/Rohanjai/Rohanjai/blob/output/github-contribution-grid-snake.svg)
 
-<p><img src="https://komarev.com/ghpvc/?username=rohanjai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="rohanjai" /></p>
+<img src="https://komarev.com/ghpvc/?username=rohanjai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="rohanjai" />
 </div>
