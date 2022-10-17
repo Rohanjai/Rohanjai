@@ -90,13 +90,14 @@
 <br/>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@_rohanjai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_rohanjai_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohanjaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanjaid" height="30" width="40" /></a>
-<a href="https://instagram.com/_rohan_jai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rohan_jai" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jairohan2912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jairohan2912" height="30" width="40" /></a>
+<div align="left">
+<a href="https://twitter.com/@_rohanjai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_rohanjai_" height="30" width="40" /></a>&nbsp;
+<a href="https://linkedin.com/in/rohanjaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanjaid" height="30" width="40" /></a>&nbsp;
+<a href="https://instagram.com/_rohan_jai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rohan_jai" height="30" width="40" /></a>&nbsp;
+<a href="https://www.hackerrank.com/jairohan2912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jairohan2912" height="30" width="40" /></a>&nbsp;
 <a href="https://www.leetcode.com/rohanjai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohanjai" height="30" width="40" /></a>
-</p>
+</div>
+
 
 
 ### Git Activity
