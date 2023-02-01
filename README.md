@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Rohan Jai D <img src="https://media4.giphy.com/media/2upjCjg1mWDypXxPw9/giphy.gif?cid=790b76115842c8205fb50fad2826acd5ed1736d898875675&rid=giphy.gif&ct=s" width="40" style="margin-top: 500px"></h1>
+<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Rohan Jai D <img src="https://media4.giphy.com/media/2upjCjg1mWDypXxPw9/giphy.gif?cid=790b76115842c8205fb50fad2826acd5ed1736d898875675&rid=giphy.gif&ct=s" width="40"></h1>
 
 <div align="center">  
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=1FDDF7FF&center=true&width=500&lines=Full+Stack+Developer;Data+Science+Enthusiastic;Machine+Learning+Engineer;Gamer;Editing+And+VFX;Musician"></a>
@@ -38,17 +38,7 @@
  </p>
  
  
- <p  align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="25"/>  
-  &nbsp;
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>  
-  &nbsp;
-
- </p>
+ 
   <p  align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
   &nbsp;
@@ -62,6 +52,17 @@
   &nbsp;
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
   &nbsp;
+ </p>
+ <p  align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
+  &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>  
+  &nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/>
+  &nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>  
+  &nbsp;
+ <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25"/>
  </p>
  
    <p  align="center">
