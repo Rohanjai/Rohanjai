@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Rohan Jai D <img src="https://media4.giphy.com/media/2upjCjg1mWDypXxPw9/giphy.gif?cid=790b76115842c8205fb50fad2826acd5ed1736d898875675&rid=giphy.gif&ct=s" width="40"></h1>
 
 <div align="center">  
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=1FDDF7FF&center=true&width=500&lines=Full+Stack+Developer;Data+Science+Enthusiastic;ML+Engineer;Gamer;Editing;Musician"></a>
+  <a href="https://github.com/Rohanjai"><img src="https://readme-typing-svg.herokuapp.com?color=1FDDF7FF&center=true&width=500&lines=Full+Stack+Developer;Data+Scientist;ML+Engineer;Gamer;Editor;Musician"></a>
 </div>
+
 - 🔭 I’m currently working on ** <strong>doing things better.</strong>**
 
 - 🌱 I’m currently learning **the life, the universe and everything.**
@@ -43,8 +44,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>  
-  &nbsp;
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="25"/>  
   &nbsp;
