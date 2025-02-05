@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **the life, the universe and everything.**
 
-- 👯 I’m looking to collaborate on **on things that could get me a job.**
+- 👯 I’m looking to collaborate **on things that could get me a job.**
 
-- 🤝 I’m looking for help with **with attaining inner peace and yes, also a job. I knowww! both contradict.**
+- 🤝 I’m looking for help **with attaining inner peace and yes, also a job. I knowww! both contradict.**
 
 - 📫 How to reach me **jairohan2912@gmail.com**
 
