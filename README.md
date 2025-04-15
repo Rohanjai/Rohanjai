@@ -4,7 +4,7 @@
   <a href="https://github.com/Rohanjai"><img src="https://readme-typing-svg.herokuapp.com?color=1FDDF7FF&center=true&width=500&lines=Full+Stack+Developer;Data+Scientist;ML+Engineer;Gamer;Editor;Musician"></a>
 </div>
 
-- 🔭 I’m currently working on ** <strong>doing things better.</strong>**
+- 🔭 I’m currently **trying doing things better.**
 
 - 🌱 I’m currently learning **the life, the universe and everything.**
 
