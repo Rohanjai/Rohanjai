@@ -127,7 +127,7 @@
 </div>
 
 ### Contributions
-  ![Snake animation](https://github.com/Rohanjai/Rohanjai/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Rohanjai/Rohanjai/blob/output/github-snake-dark.svg)
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=rohanjai&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="rohanjai" />
