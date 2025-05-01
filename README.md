@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Rohan Jai D <img src="https://media4.giphy.com/media/2upjCjg1mWDypXxPw9/giphy.gif?cid=790b76115842c8205fb50fad2826acd5ed1736d898875675&rid=giphy.gif&ct=s" width="40"></h1>
+<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Rohan Jai D <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM4ZmNxZW44ZmZ0czkzYTJkb2RiYXV6M29ubmR6MHIzY2Riamo4dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif"  width="40"></h1>
 
 <div align="center">  
-  <a href="https://github.com/Rohanjai"><img src="https://readme-typing-svg.herokuapp.com?color=1FDDF7FF&center=true&width=500&lines=Full+Stack+Developer;Data+Scientist;ML+Engineer;Gamer;Editor;Musician"></a>
+  <a href="https://github.com/Rohanjai"><img src="https://readme-typing-svg.herokuapp.com?color=1FDDF7FF&center=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Data+Scientist;AI+Engineer;Researcher"></a>
 </div>
 
 - 🔭 I’m currently **trying doing things better.**
