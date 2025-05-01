@@ -1,7 +1,7 @@
 name: SnakeGif WorkFlow
 on:
   schedule:
-    - cron: "0 0 12/ * *"
+    - cron: "0 0 * * *"
   # Allow manual triggering of the workflow
   workflow_dispatch:
   # Trigger the workflow on pushes to the main branch
